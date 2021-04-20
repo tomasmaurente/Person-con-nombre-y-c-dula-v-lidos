@@ -1,6 +1,6 @@
 using System.Linq;
 
-namespace Utilidades
+namespace Utilities
 {
     public class IdUtils
     {
